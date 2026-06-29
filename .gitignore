@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+*.zip
+*mimo*
+*Introduction_to_PyTorch.ipynb
